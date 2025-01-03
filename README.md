@@ -27,6 +27,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Jihadul-Islam1&color=blue)
 
 ---
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 
 ## Connect with me:
 
