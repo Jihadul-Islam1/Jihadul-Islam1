@@ -39,10 +39,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/Jihadul_Islam)
 
 
-
-<img src="https://raw.githubusercontent.com/Jihadul-Islam1/Jihadul-Islam1/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
 ### Languages I Speak
@@ -69,3 +65,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
 
 ---
+<img src="https://raw.githubusercontent.com/Jihadul-Islam1/Jihadul-Islam1/output/snake.svg" alt="Snake animation" />
+
+###
