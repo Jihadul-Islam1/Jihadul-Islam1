@@ -65,6 +65,4 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
 
 ---
-<img src="https://raw.githubusercontent.com/Jihadul-Islam1/Jihadul-Islam1/output/snake.svg" alt="Snake animation" />
 
-###
